@@ -4,6 +4,7 @@
   ],
   "commission": {
     "percentage": 5,
-    "wallet": "9NwRKL5ZRtG5XwrWHySBSgYpXWnTk5Drf1M4ReeHMwiC"
+    "wallet": "9NwRKL5ZRtG5XwrWHySBSgYpXWnTk5Drf1M4ReeHMwiC",
+    "ActiveUptimeCommission": 86400
   }
 }
