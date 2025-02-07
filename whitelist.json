@@ -2,10 +2,13 @@
   "whitelist": [
     "DLAi3cx5xcmDkqwoVp6eXWPE4fTWMhALe6NAh2RmNZtd",
     "Afvn34YgwnKrJPwd6v1oFEZRuaHrJMGFKYF1XYiJtHK8",
-    "Aeo1no5HpN8fUoHfdJp2iyZ3J2uGsqZxgu1hjEK9BoZe"
+    "Aeo1no5HpN8fUoHfdJp2iyZ3J2uGsqZxgu1hjEK9BoZe",
+    "EaXJ53bVhg4VYY6hs9imit6h8D7yitmWgyjDYLuNbg52",
+    "CTA3pYX9V4Kk8bxzfB7L3xSRp8UYLie4mENvRYNXF41y",
+    "7KonsTU8qgucNkEj562Y3zPTU7QH6fD82oDteVrgwaVn"
   ],
   "commission": {
-    "percentage": 5,
+    "percentage": 3,
     "wallet": "9NwRKL5ZRtG5XwrWHySBSgYpXWnTk5Drf1M4ReeHMwiC",
     "ActiveUptimeCommission": 86400
   }
